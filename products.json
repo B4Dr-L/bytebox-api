@@ -1,0 +1,55 @@
+{
+  "count": 5,
+  "products": [
+    {
+      "id": 1,
+      "name": "Arduino Uno R4 WiFi",
+      "price": 499.99,
+      "category": "Microcontrollers",
+      "imageUrl": "https://raw.githubusercontent.com/B4Dr-L/bytebox-api/main/images/arduino.webp",
+      "shortdesc": "Beginner-friendly microcontroller with Wi-Fi",
+      "inStock": true,
+      "description": "The Arduino Uno R4 WiFi upgrades the classic board with a 32-bit RA4M1 processor and an ESP32-S3 module for built-in Wi-Fi and Bluetooth connectivity."
+    },
+    {
+      "id": 2,
+      "name": "Raspberry Pi 5 (8GB)",
+      "price": 649.99,
+      "category": "Microcontrollers",
+      "imageUrl": "https://raw.githubusercontent.com/B4Dr-L/bytebox-api/main/images/raspberry_pi.webp",
+      "shortdesc": "A powerful single board computer",
+      "inStock": false,
+      "description": null
+    },
+    {
+      "id": 3,
+      "name": "DHT22 Sensor",
+      "price": 69.99,
+      "category": "Sensors",
+      "imageUrl": "https://raw.githubusercontent.com/B4Dr-L/bytebox-api/main/images/dht22.webp",
+      "shortdesc": "Temperature & Humidity Sensor",
+      "inStock": true,
+      "description": "A calibrated digital signal output sensor for measuring temperature and humidity."
+    },
+    {
+      "id": 4,
+      "name": "HC-SR04 Ultrasonic",
+      "price": 24.99,
+      "category": "Sensors",
+      "imageUrl": "https://raw.githubusercontent.com/B4Dr-L/bytebox-api/main/images/hc_sr04.webp",
+      "shortdesc": "Ultrasonic Distance Module",
+      "inStock": true,
+      "description": "A non-contact distance measurement module capable of sensing ranges from 2cm to 400cm."
+    },
+    {
+      "id": 5,
+      "name": "HC-SR501 PIR Sensor",
+      "price": 29.99,
+      "category": "Sensors",
+      "imageUrl": "https://raw.githubusercontent.com/B4Dr-L/bytebox-api/main/images/pir_sensor.webp",
+      "shortdesc": "Motion Detection Module",
+      "inStock": true,
+      "description": "A passive infrared sensor designed to detect motion based on the infrared heat emitted by moving bodies."
+    }
+  ]
+}
